@@ -44,11 +44,8 @@
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/hygorfm/hygorfm/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/hygorfm/hygorfm/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=apprentice&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/hygorfm/hygorfm/activity-graph-output/activity-graph.svg?radius=15&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=hygorfm&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hygorfm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=apprentice&hide_border=true&order=2)
 
 ###
 
@@ -58,17 +55,8 @@
 
 ###
 
-<h2 data-importer="text" align="left">🌐 Contact</h2>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="hygorfellipe95@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/hygor-moreira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+## 🌐 Contact
+[![email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:hygorfellipe95@gmail.com) 
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/hygor-moreira) 
 
 ###
